@@ -21,7 +21,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST"){
 			include("gonggao.php");
 			include("roll.php");
 			include("xuanjing.php");
-			//include("buff.php");
+			include("buff.php");
 		
 		}
 	else
